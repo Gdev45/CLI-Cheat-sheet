@@ -212,3 +212,11 @@ if __name__ == "__main__":
     while True:
         menu()
         input(Fore.BLUE + "\nPress Enter to continue...")
+
+def main():
+    while True:
+        menu()
+        input(Fore.BLUE + "\nPress Enter to continue...")
+
+if __name__ == "__main__":
+    main()
