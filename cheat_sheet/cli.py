@@ -115,9 +115,9 @@ commands = {
 # =========================
 
 def header(text):
-    print("\n" + Fore.RED + Style.BRIGHT + "=" * 50)
-    print(Fore.RED + Style.BRIGHT + f"{text.center(50)}")
-    print(Fore.RED + Style.BRIGHT + "=" * 50)
+    print("\n" + Fore.BLUE + Style.BRIGHT + "=" * 50)
+    print(Fore.BLUE + Style.BRIGHT + f"{text.center(50)}")
+    print(Fore.BLUE + Style.BRIGHT + "=" * 50)
 
 
 def category(text):
