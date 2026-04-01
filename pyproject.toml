@@ -1,20 +1,20 @@
 [project]
 name = "cheat-sheet"
 version = "0.1.0"
-description = "A colorful terminal CLI cheat sheet for Bash, CMD, and PowerShell commands."
-authors = [
-    {name="Gdev45",}
-]
-license = {text = "MIT"}
+description = "A colorful terminal CLI cheat sheet for Bash, CMD, and PowerShell."
 readme = "README.md"
 requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [
+    {name = "Gdev45"}
+]
 
 [project.urls]
-"Homepage" = "https://github.com/yourusername/cheat-sheet"
+Homepage = "https://github.com/Gdev45/CLI-cheat-sheet"
 
 [project.scripts]
 cheat-sheet = "cheat_sheet.cli:main"
 
 [build-system]
-requires = ["setuptools>=42","wheel"]
+requires = ["setuptools>=42", "wheel"]
 build-backend = "setuptools.build_meta"
