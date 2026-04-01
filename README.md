@@ -5,13 +5,13 @@ A colorful terminal cheat sheet for Bash, CMD, and PowerShell commands.
 ## Installation
 
 ```bash
-pipx install git+https://github.com/Gdev45/CLI-Cheat-sheet.git
+pipx install git+https://github.com/Gdev45/Terminal-Cheat-sheet.git
 
 ```
  or
  
 ```bash
-pip install git+https://github.com/Gdev45/CLI-Cheat-sheet.git
+pip install git+https://github.com/Gdev45/Terminal-Cheat-sheet.git
 ```
 # To use
 
